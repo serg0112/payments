@@ -1,0 +1,25 @@
+{
+  "invoice" : "1",
+  "amount" : "1299",
+  "currency" : "EUR",
+  "cardholder" : {
+    "name" : "************************",
+    "email" : "emaifl@domain.com"
+  },
+  "card" : {
+    "pan" : "************4444",
+    "expiry" : "****"
+  }
+}{
+  "invoice" : "12345",
+  "amount" : "100",
+  "currency" : "UDS",
+  "cardholder" : {
+    "name" : "****************",
+    "email" : "test@gmail.com"
+  },
+  "card" : {
+    "pan" : "************4444",
+    "expiry" : "****"
+  }
+}
